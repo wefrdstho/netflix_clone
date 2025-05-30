@@ -1,0 +1,47 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/movies/annewithane.jpg
+    - assets/movies/azizler.jpg
+    - assets/movies/bettercallsaul.jpg
+    - assets/movies/blackmirror.jpg
+    - assets/movies/breakingbad.jpg
+    - assets/movies/deathnote.jpg
+    - assets/movies/emilyinparis.jpg
+    - assets/movies/friends.jpg
+    - assets/movies/gilmoregirls.jpg
+    - assets/movies/greenmile.jpg
+    - assets/movies/himym.jpg
+    - assets/movies/it.jpg
+    - assets/movies/joker.jpg
+    - assets/movies/lotr.jpg
+    - assets/movies/myoctopusteacher.jpg
+    - assets/movies/netfologo.png
+    - assets/movies/number.jpg
+    - assets/movies/pulpfiction.jpg
+    - assets/movies/thecrown.jpg
+    - assets/movies/theplatform.jpg
+    - assets/movies/theprestige.jpg
+    - assets/movies/theshining.jpg
+    - assets/movies/thetrumanshow.jpg
+    - assets/movies/wednesday.jpg
