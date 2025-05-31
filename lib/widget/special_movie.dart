@@ -101,7 +101,5 @@ class SpecialMovie extends StatelessWidget {
       ),
 
     );
-
-
   }
 }
